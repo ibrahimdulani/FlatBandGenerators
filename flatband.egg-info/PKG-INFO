@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: flatband
+Version: 2017.10.27
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Alexei Andreanov
+Author-email: alexei@pcs.ibs.re.kr
+License: GNU GPLv3
+Description: UNKNOWN
+Keywords: Flatbands
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Physicists
+Classifier: Topic :: Flatbands
+Classifier: License :: OSI Approved :: GPLv3 License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
